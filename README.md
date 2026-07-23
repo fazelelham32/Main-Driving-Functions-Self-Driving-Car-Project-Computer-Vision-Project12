@@ -10,6 +10,11 @@ This project demonstrates the deployment of an autonomous driving model inside a
 
 ---
 
+# Download this Udacity's Self-Driving Car Simulator:
+Repo Link: https://github.com/udacity/self-driving-car-sim
+
+---
+
 # Project Objective
 
 The objective of this project is to build the driving pipeline that enables a trained deep learning model to control a simulated self-driving vehicle without manual intervention.
